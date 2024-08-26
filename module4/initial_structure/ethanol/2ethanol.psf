@@ -1,0 +1,74 @@
+PSF
+
+       1 !NTITLE
+ REMARKS VMD-generated NAMD/X-Plor PSF structure file
+
+      18 !NATOM
+       1 ETOH 1    ETOH C1   CT2            0.05        12.011       0
+       2 ETOH 1    ETOH O1   OH1           -0.66       15.9994       0
+       3 ETOH 1    ETOH HO1  H              0.43         1.008       0
+       4 ETOH 1    ETOH H11  HA2            0.09         1.008       0
+       5 ETOH 1    ETOH H12  HA2            0.09         1.008       0
+       6 ETOH 1    ETOH C2   CT3           -0.27        12.011       0
+       7 ETOH 1    ETOH H21  HA3            0.09         1.008       0
+       8 ETOH 1    ETOH H22  HA3            0.09         1.008       0
+       9 ETOH 1    ETOH H23  HA3            0.09         1.008       0
+      10 ETOH 1    ETOH C1   CT2            0.05        12.011       0
+      11 ETOH 1    ETOH O1   OH1           -0.66       15.9994       0
+      12 ETOH 1    ETOH HO1  H              0.43         1.008       0
+      13 ETOH 1    ETOH H11  HA2            0.09         1.008       0
+      14 ETOH 1    ETOH H12  HA2            0.09         1.008       0
+      15 ETOH 1    ETOH C2   CT3           -0.27        12.011       0
+      16 ETOH 1    ETOH H21  HA3            0.09         1.008       0
+      17 ETOH 1    ETOH H22  HA3            0.09         1.008       0
+      18 ETOH 1    ETOH H23  HA3            0.09         1.008       0
+
+      16 !NBOND: bonds
+       1       6       1       2       1       4       1       5
+       2       3       6       7       6       8       6       9
+      10      15      10      11      10      13      10      14
+      11      12      15      16      15      17      15      18
+
+      26 !NTHETA: angles
+       2       1       4       2       1       5       2       1       6
+       4       1       5       4       1       6       5       1       6
+       1       2       3       1       6       7       1       6       8
+       1       6       9       7       6       8       7       6       9
+       8       6       9      11      10      13      11      10      14
+      11      10      15      13      10      14      13      10      15
+      14      10      15      10      11      12      10      15      16
+      10      15      17      10      15      18      16      15      17
+      16      15      18      17      15      18
+
+      24 !NPHI: dihedrals
+       2       1       6       7       2       1       6       8
+       2       1       6       9       4       1       2       3
+       5       1       2       3       6       1       2       3
+       4       1       6       7       4       1       6       8
+       4       1       6       9       5       1       6       7
+       5       1       6       8       5       1       6       9
+      11      10      15      16      11      10      15      17
+      11      10      15      18      13      10      11      12
+      14      10      11      12      15      10      11      12
+      13      10      15      16      13      10      15      17
+      13      10      15      18      14      10      15      16
+      14      10      15      17      14      10      15      18
+
+       0 !NIMPHI: impropers
+
+
+       0 !NDON: donors
+
+
+       0 !NACC: acceptors
+
+
+       0 !NNB
+
+       0       0       0       0       0       0       0       0
+       0       0       0       0       0       0       0       0
+       0       0
+
+       1       0 !NGRP
+       0       0       0
+

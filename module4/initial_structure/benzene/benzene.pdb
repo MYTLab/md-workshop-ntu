@@ -1,0 +1,16 @@
+REMARK  GENERATE LIGAND                                                               
+REMARK   DATE:     8/22/24      9:56:27      CREATED BY USER: apache                  
+ATOM      1  CG  BEN B   1      -0.006  -0.010   0.000  1.00  0.00      BENZ
+ATOM      2  HG  BEN B   1      -0.546  -0.946   0.000  1.00  0.00      BENZ
+ATOM      3  CD1 BEN B   1       1.396  -0.010  -0.000  1.00  0.00      BENZ
+ATOM      4  HD1 BEN B   1       1.936  -0.946  -0.000  1.00  0.00      BENZ
+ATOM      5  CD2 BEN B   1      -0.707   1.204   0.000  1.00  0.00      BENZ
+ATOM      6  HD2 BEN B   1      -1.787   1.204   0.000  1.00  0.00      BENZ
+ATOM      7  CE1 BEN B   1       2.097   1.204  -0.000  1.00  0.00      BENZ
+ATOM      8  HE1 BEN B   1       3.177   1.204  -0.000  1.00  0.00      BENZ
+ATOM      9  CE2 BEN B   1      -0.006   2.418   0.000  1.00  0.00      BENZ
+ATOM     10  HE2 BEN B   1      -0.546   3.353   0.000  1.00  0.00      BENZ
+ATOM     11  CZ  BEN B   1       1.396   2.418  -0.000  1.00  0.00      BENZ
+ATOM     12  HZ  BEN B   1       1.936   3.353  -0.000  1.00  0.00      BENZ
+TER      13      BENZ     1
+END
