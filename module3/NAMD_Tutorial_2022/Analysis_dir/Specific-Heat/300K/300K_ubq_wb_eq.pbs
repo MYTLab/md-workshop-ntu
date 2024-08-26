@@ -1,0 +1,10 @@
+#!/bin/bash
+        #PBS -N 300K_ubq_wb_eq
+        #PBS -j oe
+        #PBS -q alphaq
+        #PBS -l nodes=node1:ppn=4
+        
+        cd $PBS_O_WORKDIR
+        
+        namd2 +idlepoll +p4 +devices 0,1  ubq_wb_eq_at_300K.conf  >  ubq_wb_eq_300K.log
+        

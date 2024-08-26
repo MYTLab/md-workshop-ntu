@@ -1,0 +1,3 @@
+# NAMD extended system configuration output file
+#$LABELS step a_x a_y a_z b_x b_y b_z c_x c_y c_z o_x o_y o_z s_x s_y s_z s_u s_v s_w
+2000100 40.0341562458 0 0 0 41.6118569846 0 0 0 45.5561088315 30.8 29 17.7 -4.43325354498e-05 -4.43325354498e-05 -4.43325354498e-05 0 0 0
