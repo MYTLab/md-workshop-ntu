@@ -7,7 +7,8 @@ https://course.cc.ntu.edu.tw/202507/course/course3.html
 
 https://course.cc.ntu.edu.tw/202407/course/course4.html (past)
 
-Copyright 2024-2025
+Copyright 2024-25
+
 -------------------------------------------------------------
 
 This MD workshop material includes NAMD binaries. 
